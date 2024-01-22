@@ -61,6 +61,13 @@
         "email": "eti@gmail.com",
         "password": "Eti@12345",
         "department": "HR"
+      },
+      {
+        "id": "M123",
+        "name": "Mahindra",
+        "email": "Mahindra123@gmail.com",
+        "password": "Mahindra123",
+        "department": "Transport"
       }
     ],
     "managers": [
